@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**TomisinJ/tomisinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I'm Tomisin, welcome to my GitHub.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Express and React with API integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+----
+
+| ---------------------- | --------------------------------------------------- | ------------- |
+| **Sneaker Seeker**     | A search engine for sneakers.                       |               |
+| **Chitter**            | Like Twitter, but Chitter                           | Ruby, SQL.    |
+| **AceBook**            | An app to connect with friends                      | Ruby on Rails |
+
+
+Skills & Languages
+----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomisinj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Education
+----
+
+Makers Academy 
+July 21 - Nov 21
+
+- Frequently pair with other developers in order to problem solve efficiently, requiring teamwork and communication
+- Follow Test Driven Development principles to write programs
+- Adapt to learning new languages frequently
+
+Before joining Makers Academy, I used online programming courses to support my self taught learning.
+May 20 - May 21
+
+- Python for Everybody - University of Michigan
+- Introduction to Web Development - Code First:Girls
+- Technology Internship Experience - Bright Network
+- Responsive Web Design, JavaScript Algorithms and Data Structure Certifications - freeCodeCamp
+- Harvard CS50 _in progress
+
+The University of Manchester
+2015 - 2018
+
+- BSc International Business, Finance and Economics
+- Played for the Women’s Hockey Club and Campus League teams
+- Member of the Media Society
