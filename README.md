@@ -35,7 +35,7 @@ May 20 - May 21
 - Introduction to Web Development - Code First:Girls
 - Technology Internship Experience - Bright Network
 - Responsive Web Design, JavaScript Algorithms and Data Structure Certifications - freeCodeCamp
-- Harvard CS50 _in progress
+- Harvard CS50 _in progress_
 
 The University of Manchester
 2015 - 2018
