@@ -1,4 +1,4 @@
-### Hello!
+## Hello!
 
 Hello I'm Tomisin, welcome to my GitHub.
 
