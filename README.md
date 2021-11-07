@@ -10,7 +10,7 @@ Projects
 | **Project**            |                                       |               |
 | ---------------------- | ------------------------------------- | ------------- |
 | **Sneaker Seeker**     | A search engine for sneakers          |               |
-| **Chitter**            | Like Twitter, but Chitter             | Ruby, SQL.    |
+| **Chitter**            | Like Twitter, but Chitter             | Ruby, SQL     |
 | **AceBook**            | An app to connect with friends        | Ruby on Rails |
 
 
