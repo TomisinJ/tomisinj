@@ -21,7 +21,7 @@ Skills & Languages
 Education
 ----
 
-Makers Academy 
+Makers Academy. 
 July 21 - Nov 21
 
 - Frequently pair with other developers in order to problem solve efficiently, requiring teamwork and communication
@@ -37,7 +37,7 @@ May 20 - May 21
 - Responsive Web Design, JavaScript Algorithms and Data Structure Certifications - freeCodeCamp
 - Harvard CS50 _in progress_
 
-The University of Manchester
+The University of Manchester.
 2015 - 2018
 
 - BSc International Business, Finance and Economics
