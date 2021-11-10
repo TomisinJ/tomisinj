@@ -2,7 +2,7 @@
 
 Hello I'm Tomisin, welcome to my GitHub.
 
-🌱 I’m currently learning Express and React with API integration.
+🌱 I’m currently learning React with API integration.
 
 Projects
 ----
