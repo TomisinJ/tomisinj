@@ -10,7 +10,7 @@ Projects
 | **Project**            |                                       |                                         |
 | ---------------------- | ------------------------------------- | ----------------------------------------|
 | **[Sneaker Seeker](https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo)**     | A search engine for sneakers          | Express, React, Node.js, React-Bootstrap|
-| **AceBook**            | An app to connect with friends        | Ruby on Rails, Bootstrap                |
+| **[AceBook](https://github.com/Jessocxz98/acebook-anti-social-media-inc)**            | An app to connect with friends        | Ruby on Rails, Bootstrap                |
 | **Makersbnb**          | A take on Airbnb                      |                                         |
 
 Skills & Languages
