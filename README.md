@@ -10,9 +10,8 @@ Projects
 | **Project**            |                                       |                                         |
 | ---------------------- | ------------------------------------- | ----------------------------------------|
 | **Sneaker Seeker**     | A search engine for sneakers          | Express, React, Node.js, React-Bootstrap|
-| **Chitter**            | Like Twitter, but Chitter             | Ruby, SQL                               |
-| **AceBook**            | An app to connect with friends        | Ruby on Rails                           |
-
+| **AceBook**            | An app to connect with friends        | Ruby on Rails, Bootstrap                |
+| **Makersbnb**          | A take on Airbnb.                     |                                         |
 
 Skills & Languages
 ----
