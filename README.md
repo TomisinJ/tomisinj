@@ -11,7 +11,7 @@ Projects
 | ---------------------- | ------------------------------------- | ----------------------------------------|
 | **Sneaker Seeker**     | A search engine for sneakers          | Express, React, Node.js, React-Bootstrap|
 | **AceBook**            | An app to connect with friends        | Ruby on Rails, Bootstrap                |
-| **Makersbnb**          | A take on Airbnb.                     |                                         |
+| **Makersbnb**          | A take on Airbnb                      |                                         |
 
 Skills & Languages
 ----
