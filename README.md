@@ -39,7 +39,7 @@ Production Assistant. 2019 - 2020
 Fundraising and Marketing Assistant. 2019
 - Researched fundraising opportunities during the relaunch of the art gallery
 - Used a CMS to manage the website and wrote the weekly newsletter
-- Filmed interviews and created promotional videos using Adobe Premiere Pro.
+- Filmed interviews and created promotional videos using Adobe Premiere Pro
 
 Education
 ----
