@@ -1,8 +1,11 @@
-## Hello! I'm Tomisin, welcome to my GitHub.
+# Hello! I'm Tomisin, welcome to my GitHub.
+
+[Projects](#Projects) | [Skills](#Skills) | [Work Experience](#Work Experience) | [Education](#Education) | [Hobbies](#Hobbies)
 
 🌱 I’m currently learning React with API integration.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomisinj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Projects
+## Projects
 ----
 
 | **Project**            |                                       |                                         |
@@ -11,12 +14,11 @@ Projects
 | **[AceBook](https://github.com/Jessocxz98/acebook-anti-social-media-inc)**            | An app to connect with friends        | Ruby on Rails, Bootstrap                |
 | **[Makersbnb](https://github.com/rhianeKobar/Makers_bnb)**          | A take on Airbnb                      | Ruby                                     |
 
-Skills & Languages
+## Skills
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomisinj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Work Experience
+## Work Experience
 ----
 
 TV Researcher. 2020
@@ -38,7 +40,7 @@ Fundraising and Marketing Assistant. 2019
 - Used a CMS to manage the website and wrote the weekly newsletter
 - Filmed interviews and created promotional videos using Adobe Premiere Pro
 
-Education
+## Education
 ----
 
 Makers Academy. 
@@ -63,3 +65,6 @@ The University of Manchester.
 - BSc International Business, Finance and Economics
 - Played for the Women’s Hockey Club and Campus League teams
 - Member of the Media Society
+
+## Hobbies
+----
