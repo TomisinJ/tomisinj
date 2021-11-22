@@ -5,7 +5,6 @@
 I am an enthusiastic Junior Full Stack Developer with a passion for clean design.
 
 ## Projects
-----
 
 | **Project**            |                                       |                                         |
 | ---------------------- | ------------------------------------- | ----------------------------------------|
@@ -14,12 +13,10 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 | **[Makersbnb](https://github.com/rhianeKobar/Makers_bnb)**          | A take on Airbnb                      | Ruby                                     |
 
 ## Skills
-----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomisinj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Work Experience
-----
 
 TV Researcher. 2020
 - Conducted extensive research into various subject matter aligned to specific criteria and presented information for pitches, decks and biographies
@@ -41,7 +38,6 @@ Fundraising and Marketing Assistant. 2019
 - Filmed interviews and created promotional videos using Adobe Premiere Pro
 
 ## Education
-----
 
 Makers Academy. 
 July 21 - Nov 21
@@ -67,4 +63,3 @@ The University of Manchester.
 - Member of the Media Society
 
 ## Hobbies
-----
