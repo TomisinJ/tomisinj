@@ -1,8 +1,9 @@
 <h1 align="center">
   Hello! I'm Tomisin, welcome to my GitHub.
 </h1>
-[Projects](#Projects) | [Skills](#Skills) | [Work Experience](#Work-Experience) | [Education](#Education) | [Hobbies](#Hobbies)
 
+[Projects](#Projects) | [Skills](#Skills) | [Work Experience](#Work-Experience) | [Education](#Education) | [Hobbies](#Hobbies)
+  
 I am an enthusiastic Junior Full Stack Developer with a passion for clean design.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomisinj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
