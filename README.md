@@ -6,7 +6,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 
 ## Projects
 
-| **Project**            |                                       |                                         |
+| **Title**            |  Description               |     Technologies                        |
 | ---------------------- | ------------------------------------- | ----------------------------------------|
 | **[Sneaker Seeker](https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo)**     | A search engine for sneakers          | Express, React, Node.js, React-Bootstrap|
 | **[AceBook](https://github.com/Jessocxz98/acebook-anti-social-media-inc)**            | An app to connect with friends        | Ruby on Rails, Bootstrap                |
