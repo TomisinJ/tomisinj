@@ -2,8 +2,9 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Work Experience](#Work-Experience) | [Education](#Education) | [Hobbies](#Hobbies)
 
-🌱 I’m currently learning React with API integration.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomisinj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Hello! I am an enthusiastic Junior Full Stack Developer with a passion for clean design.
 
 ## Projects
 ----
