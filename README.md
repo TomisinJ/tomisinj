@@ -1,5 +1,5 @@
 <h1 align="center">
-  # Hello! I'm Tomisin, welcome to my GitHub.
+  Hello! I'm Tomisin, welcome to my GitHub.
 </h1>
 [Projects](#Projects) | [Skills](#Skills) | [Work Experience](#Work-Experience) | [Education](#Education) | [Hobbies](#Hobbies)
 
