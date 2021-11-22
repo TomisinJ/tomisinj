@@ -8,7 +8,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 
 |Title|Description|Technologies|
 | --- | --- | --- |
-|**[Sneaker Seeker](https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo)**|A search engine for sneakers| Express, React, Node.js, React-Bootstrap|
+|**[Sneaker Seeker](https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo)**|A web app for discovering sneakers| Express, React, Node.js, React-Bootstrap, API|
 |**[AceBook](https://github.com/Jessocxz98/acebook-anti-social-media-inc)**|An app to connect with friends|Ruby on Rails, PostgreSQL, Bootstrap|
 |**[Makersbnb](https://github.com/rhianeKobar/Makers_bnb)**|A take on Airbnb|Ruby, RSpec|
 
