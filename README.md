@@ -1,6 +1,4 @@
-## Hello!
-
-Hello I'm Tomisin, welcome to my GitHub.
+## Hello! I'm Tomisin, welcome to my GitHub.
 
 🌱 I’m currently learning React with API integration.
 
