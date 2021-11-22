@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   # Hello! I'm Tomisin, welcome to my GitHub.
-</p>
+</h1>
 [Projects](#Projects) | [Skills](#Skills) | [Work Experience](#Work-Experience) | [Education](#Education) | [Hobbies](#Hobbies)
 
 I am an enthusiastic Junior Full Stack Developer with a passion for clean design.
