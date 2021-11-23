@@ -64,7 +64,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 - Cameraman for FuseTV Media Society
 
 **A & AS Levels**
-- Mathematics, Psychology, Biology & Chemistry
+- Mathematics, Psychology, Biology and Chemistry
 
 **GCSEs**
 - 11 A* - A including Mathematics and English, 1 B
