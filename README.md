@@ -60,6 +60,6 @@ The University of Manchester.
 
 - BSc International Business, Finance and Economics
 - Played for the Women’s Hockey Club and Campus League teams
-- Member of the Media Society
+- Cameraman for FuseTV Media Society
 
 ## Hobbies
