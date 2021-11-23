@@ -49,7 +49,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 - Follow Test Driven Development principles to write programs
 - Adapt to learning new languages frequently
 
-**Before joining Makers Academy, I used online programming courses to support my self taught learning (May 20 - May 21)**
+**Before joining Makers Academy, I used online programming courses to support my self-led learning (May 20 - May 21)**
 
 - Python for Everybody - University of Michigan
 - Introduction to Web Development - Code First:Girls
