@@ -67,7 +67,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 - Mathematics, Psychology, Biology and Chemistry
 
 **GCSEs**
-- 11 A* - A including Mathematics and English, 1 B
+- 11 A* - A including Mathematics and English
 
 ## Hobbies and Interests
 -
