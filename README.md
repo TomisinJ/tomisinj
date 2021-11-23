@@ -51,11 +51,11 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 
 **Before joining Makers Academy, I used online programming courses to support my self-led learning (May 20 - May 21)**
 
-- Python for Everybody - University of Michigan
-- Introduction to Web Development - Code First:Girls
-- Technology Internship Experience - Bright Network
-- Responsive Web Design, JavaScript Algorithms and Data Structure Certifications - freeCodeCamp
-- Harvard CS50 _in progress_
+- **Python for Everybody** - University of Michigan
+- **Introduction to Web Development** - Code First:Girls
+- **Technology Internship Experience** - Bright Network
+- **Responsive Web Design, JavaScript Algorithms and Data Structure Certifications** - freeCodeCamp
+- **Harvard CS50** _in progress_
 
 **The University of Manchester (Sep 15 - Jun 18)**
 
