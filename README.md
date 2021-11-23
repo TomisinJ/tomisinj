@@ -19,7 +19,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 **Problem Solving**
 **Leadership**
 **Teamwork**
-**Attenton to detail**
+**Attention to Detail**
 
 ## Work Experience
 
