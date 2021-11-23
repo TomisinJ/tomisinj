@@ -1,6 +1,6 @@
 # Hello! I'm Tomisin, welcome to my GitHub.
 
-[Projects](#Projects) • [Skills](#Skills) • [Work Experience](#Work-Experience) • [Education](#Education) • [Hobbies](#Hobbies)
+[Projects](#Projects) • [Skills](#Skills) • [Work Experience](#Work-Experience) • [Education](#Education) • [Hobbies and Interests](#Hobbies-and-Interests)
 
 I am an enthusiastic Junior Full Stack Developer with a passion for clean design.
 
@@ -14,7 +14,11 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 
 ## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomisinj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Languages**
+**Self-led Study**
+**Problem Solving**
+**Leadership**
+**Teamwork**
 
 ## Work Experience
 
@@ -39,15 +43,13 @@ Fundraising and Marketing Assistant. 2019
 
 ## Education
 
-Makers Academy. 
-July 21 - Nov 21
+Makers Academy (Jul 21 - Nov 21)
 
 - Frequently pair with other developers in order to problem solve efficiently, requiring teamwork and communication
 - Follow Test Driven Development principles to write programs
 - Adapt to learning new languages frequently
 
-Before joining Makers Academy, I used online programming courses to support my self taught learning.
-May 20 - May 21
+Before joining Makers Academy, I used online programming courses to support my self taught learning (May 20 - May 21)
 
 - Python for Everybody - University of Michigan
 - Introduction to Web Development - Code First:Girls
@@ -55,11 +57,10 @@ May 20 - May 21
 - Responsive Web Design, JavaScript Algorithms and Data Structure Certifications - freeCodeCamp
 - Harvard CS50 _in progress_
 
-The University of Manchester.
-2015 - 2018
+The University of Manchester (Sep 15 - Jun 18)
 
 - BSc International Business, Finance and Economics
 - Played for the Women’s Hockey Club and Campus League teams
 - Cameraman for FuseTV Media Society
 
-## Hobbies
+## Hobbies and Interests
