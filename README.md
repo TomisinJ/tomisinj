@@ -32,7 +32,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 - Scheduled posts to coincide with current affairs and created content in-line with social trends and monitored analytics
 - Used Canon 5D and Panasonic Lumix G80 to capture content and edit using Photoshop and Adobe Premiere Pro
 
-**Production Assistant ( Mar 19 - Dec 20)**
+**Production Assistant (Mar 19 - Dec 20)**
 - Runner on set and in office for an award-winning production team creating a variety of branded, digital and entertainment content
 - Delegated responsibilities amongst runners and flexibly filled any role required across departments
 
