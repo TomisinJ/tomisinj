@@ -63,6 +63,12 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 - Played for the Women’s Hockey Club and Campus League teams
 - Cameraman for FuseTV Media Society
 
+**A & AS Levels**
+- Mathematics, Psychology, Biology & Chemistry
+
+**GCSEs**
+- 11 A* - A including Mathematics and English, 1 B
+
 ## Hobbies and Interests
 -
 -
