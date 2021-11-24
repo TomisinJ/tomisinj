@@ -14,7 +14,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 
 ## Skills
 
-**Languages**
+**Languages**: Experience with Ruby, JavaScript, basic Python
 **Self-led Study**
 **Problem Solving**
 **Leadership**
