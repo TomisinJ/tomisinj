@@ -14,12 +14,6 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 
 ## Skills
 
-- **Self-led Study**
-- **Problem Solving**
-- **Leadership**
-- **Teamwork**
-- **Attention to Detail**
-
 **Languages and Tools**
 
 Learning with Makers has enabled me to become language agnostic - I am happy to work with new technologies and adapt as needed.
