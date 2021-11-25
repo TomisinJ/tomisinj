@@ -27,7 +27,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 - Conducted extensive research into various subject matter aligned to specific criteria and presented information for pitches, decks and biographies
 - Sourced relevant media from archives on tight deadlines
 
-**Social Media Manager (Apr 19 – Mar 20)**
+**Social Media Manager (Apr 19 - Mar 20)**
 - Developed a new website (using Wix) with appropriate SEO and design
 - Strategically created original content for social media to organically increase engagement and grow presence online
 - Scheduled posts to coincide with current affairs and created content in-line with social trends and monitored analytics
