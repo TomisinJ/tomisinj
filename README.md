@@ -71,6 +71,11 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 **GCSEs**
 - 11 A* - A including Mathematics and English
 
+**Achievements**
+- Makers Scholarship
+- Endemol Shine Short Cut Film Competition - Highly Commended
+- The Network Talent Scheme
+
 ## Hobbies and Interests
 - **Hockey** I play hockey for my local team on a weekly basis
 - **Media** As a self-taught video editor, I enjoy creating fashion content
