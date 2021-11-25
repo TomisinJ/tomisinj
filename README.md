@@ -46,9 +46,9 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 
 **Makers Academy (Jul 21 - Nov 21)**
 
-- Frequently pair with other developers in order to problem solve efficiently, requiring teamwork and communication
-- Follow Test Driven Development principles to write programs
-- Adapt to learning new languages frequently
+- Frequently paired with developers, requiring clear communication
+- Followed Test Driven Development principles
+- Adapted to using new technologies and debugging
 
 **Before joining Makers Academy, I used online programming courses to support my self-led learning (May 20 - May 21)**
 
