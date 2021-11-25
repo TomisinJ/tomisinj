@@ -44,7 +44,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 
 ## Education
 
-**Makers Academy (Jul 21 - Nov 21)**
+**Makers Academy (Jul '21 - Nov '21)**
 
 - Frequently paired with developers, requiring clear communication
 - Followed Test Driven Development principles
