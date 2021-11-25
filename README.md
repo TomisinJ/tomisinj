@@ -28,7 +28,7 @@ Learning with Makers has enabled me to become language agnostic - I am happy to 
 
 **Continuous Development and Self-led Learning**
 
-I continue to seek new information to enhance my personal and professional projects. I taught myself how to edit videos using industry standard software, which led to roles in the TV industry. Utilising Agile practices throughout Makers enabled me focus on effective time management and prioritise tasks accordingly. For our final project, we challenged ourselves to learn Express and React in under 2 weeks to enhance our Sneaker Seeker app.
+I continue to seek new information to enhance my personal and professional projects. I taught myself how to edit videos using industry standard software, which led to roles in the TV industry. Utilising Agile practices throughout Makers enabled me to focus on effective time management and prioritise tasks accordingly. For our final project, we challenged ourselves to learn Express and React in under 2 weeks to enhance our **[Sneaker Seeker]**(https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo) app.
 
 **Problem Solving**
 
@@ -36,7 +36,7 @@ As a Production Assistant, I frequently sourced props and supplies on short dead
 
 **Leadership and Communication**
 
-Throughout my education I have taken on various leadership roles, including Sport Officer and Prefect. This involved delegating tasks, organising schedules, liaising with appropriate contacts and supporting the wellbeing of my team - which also involves giving feedback in pressured environments. During group projects, I was keen to encourage EQ practices amongst our team to manage stress and prevent burnout.
+Throughout my education I have taken on various leadership roles, including Sport Officer and Prefect. This often involved delegating tasks, organising schedules, liaising with appropriate contacts and supporting the wellbeing of my team - which also involves giving feedback in pressured environments. During group projects, I was keen to encourage EQ practices amongst our team to manage stress and prevent burnout.
 
 **Teamwork**
 
@@ -44,7 +44,7 @@ I enjoy playing team sports, particularly hockey, at various levels including Co
 
 **Attention to Detail**
 
-As a researcher, I sought to find unique perspectives that increased engagement from viewers. Whilst working at a production company, I considered UX & UI design in order to create an engaging portfolio website. When creating Sneaker Seeker, I was keen to implement clean design into our web app, especially considering the demographic of users.
+As a researcher, I sought to find unique perspectives that increased engagement from viewers. Whilst working at a production company, I considered UX & UI design in order to create an engaging portfolio website. When creating [Sneaker Seeker](https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo), I was keen to implement clean design into our web app, especially considering the demographic of users.
 
 ## Work Experience
 
