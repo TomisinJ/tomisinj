@@ -27,17 +27,17 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 - Conducted extensive research into various subject matter aligned to specific criteria and presented information for pitches, decks and biographies
 - Sourced relevant media from archives on tight deadlines
 
-**Social Media Manager (Apr 19 - Mar 20)**
+**Social Media Manager (Apr '19 - Mar '20)**
 - Developed a new website (using Wix) with appropriate SEO and design
 - Strategically created original content for social media to organically increase engagement and grow presence online
 - Scheduled posts to coincide with current affairs and created content in-line with social trends and monitored analytics
 - Used Canon 5D and Panasonic Lumix G80 to capture content and edit using Photoshop and Adobe Premiere Pro
 
-**Production Assistant (Mar 19 - Dec 20)**
+**Production Assistant (Mar '19 - Dec '20)**
 - Runner on set and in office for an award-winning production team creating a variety of branded, digital and entertainment content
 - Delegated responsibilities amongst runners and flexibly filled any role required across departments
 
-**Fundraising and Marketing Assistant (Jan 19 - Mar 19)**
+**Fundraising and Marketing Assistant (Jan '19 - Mar '19)**
 - Researched fundraising opportunities during the relaunch of the art gallery
 - Used a CMS to manage the website and wrote the weekly newsletter
 - Filmed interviews and created promotional videos using Adobe Premiere Pro
@@ -51,7 +51,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 - Adapted to using new technologies and debugging
 - Established wellbeing practices with each project
 
-**Before joining Makers Academy, I used online programming courses to support my self-led learning (May 20 - May 21)**
+**Before joining Makers Academy, I used online programming courses to support my self-led learning (May '20 - May '21)**
 
 - **Python for Everybody** - University of Michigan
 - **Introduction to Web Development** - Code First:Girls
@@ -59,7 +59,7 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 - **Responsive Web Design, JavaScript Algorithms and Data Structure Certifications** - freeCodeCamp
 - **Harvard CS50** _in progress_
 
-**The University of Manchester (Sep 15 - Jun 18)**
+**The University of Manchester (Sep '15 - Jun '18)**
 
 - BSc International Business, Finance and Economics
 - Played for the Women’s Hockey Club and Campus League teams
