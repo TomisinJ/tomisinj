@@ -28,7 +28,7 @@ Learning with Makers has enabled me to become language agnostic - I am happy to 
 
 **Continuous Development and Self-led Learning**
 
-I continue to seek new information to enhance my personal and professional projects. I taught myself how to edit videos using industry standard software, which led to roles in the TV industry. Utilising Agile practices throughout Makers enabled me to focus on effective time management and prioritise tasks accordingly. For our final project, we challenged ourselves to learn Express and React in under 2 weeks to enhance our **[Sneaker Seeker]**(https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo) app.
+I continue to seek new information to enhance my personal and professional projects. I taught myself how to edit videos using industry standard software, which led to roles in the TV industry. Utilising Agile practices throughout Makers enabled me to focus on effective time management and prioritise tasks accordingly. For our final project, we challenged ourselves to learn Express and React in under 2 weeks to enhance our [Sneaker Seeker](https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo) app.
 
 **Problem Solving**
 
