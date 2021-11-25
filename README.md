@@ -46,10 +46,13 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 
 **Makers Academy (Jul '21 - Nov '21)**
 
-- Frequently paired with developers, requiring clear communication
-- Followed Test Driven Development principles
-- Adapted to using new technologies and debugging
+- Focused on Object Oriented Programming and Behaviour Driven Development
+- Integrated XP values and SOLID principles into projects 
+- Practiced Test driven Development and Domain Modelling
+- Gained knowledge on MVC with full stack web development
 - Established wellbeing practices with each project
+- Adapted to using new technologies and debugging
+- Frequent pair programming
 
 **Before joining Makers Academy, I used online programming courses to support my self-led learning (May '20 - May '21)**
 
