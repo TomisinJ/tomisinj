@@ -75,7 +75,7 @@ As a researcher, I sought to find unique perspectives that increased engagement 
 - **Harvard CS50** _in progress_
 
 **The University of Manchester (Sep '15 - Jun '18)**
-- BSc International Business, Finance and Economics
+- **BSc International Business, Finance and Economics**
 - Played for the Women’s Hockey Club and Campus League teams
 - Cameraman for FuseTV Media Society
 
