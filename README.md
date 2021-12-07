@@ -73,17 +73,25 @@ As a researcher, I sought to find unique perspectives that increased engagement 
 - Adapted to using new technologies and debugging
 - Frequent pair programming
 
-**Before joining Makers Academy, I used online programming courses to support my self-led learning (May '20 - May '21)**
+## Education and Further Learning
 
-- **Python for Everybody** - University of Michigan
-- **Introduction to Web Development** - Code First:Girls
-- **Technology Internship Experience** - Bright Network
-- **Responsive Web Design, JavaScript Algorithms and Data Structure Certifications** - freeCodeCamp
+**Makers Academy (Jul '21 - Nov '21)**
+
+- Focused on Object Oriented Programming and Behaviour Driven Development
+- Integrated XP values and SOLID principles into projects 
+- Practiced Test driven Development and Domain Modelling
+- Gained knowledge on MVC with full stack web development
+- Established wellbeing practices with each project
+- Adapted to using new technologies and debugging
+- Frequent pair programming
+
+- **Python for Everybody** - University of Michigan (May '21 - Jun '21)
+- **Technology Internship Experience** - Bright Network (Jul '20)
+- **Introduction to Web Development** - Code First:Girls (Apr '20 - Jun '20)
+- **Responsive Web Design, JavaScript Algorithms and Data Structure Certifications** - freeCodeCamp (Apr '20 - Jun '20)
 - **Harvard CS50** _in progress_
 
-**The University of Manchester (Sep '15 - Jun '18)**
-
-- BSc International Business, Finance and Economics
+**The University of Manchester (Sep '15 - Jun '18)** BSc International Business, Finance and Economics
 - Played for the Women’s Hockey Club and Campus League teams
 - Cameraman for FuseTV Media Society
 
@@ -92,13 +100,3 @@ As a researcher, I sought to find unique perspectives that increased engagement 
 
 **GCSEs**
 - 11 A* - A including Mathematics and English
-
-**Achievements**
-- Makers Scholarship
-- Endemol Shine Short Cut Film Competition - Highly Commended
-- The Network Talent Scheme
-
-## Hobbies and Interests
-- **Hockey** I play hockey for my local team on a weekly basis
-- **Media** As a self-taught video editor, I enjoy creating fashion content
-- **DIY** I like to work on various DIY projects, including making jewellery and upcycling clothes
