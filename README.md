@@ -81,7 +81,7 @@ As a researcher, I sought to find unique perspectives that increased engagement 
 - **Responsive Web Design, JavaScript Algorithms and Data Structure Certifications** - freeCodeCamp (Apr '20 - Jun '20)
 - **Harvard CS50** _in progress_
 
-**The University of Manchester (Sep '15 - Jun '18)** BSc International Business, Finance and Economics
+**The University of Manchester** BSc International Business, Finance and Economics (Sep '15 - Jun '18)
 - Played for the Women’s Hockey Club and Campus League teams
 - Cameraman for FuseTV Media Society
 
