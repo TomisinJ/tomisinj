@@ -61,18 +61,6 @@ As a researcher, I sought to find unique perspectives that increased engagement 
 - Used a CMS to manage the website and wrote the weekly newsletter
 - Filmed interviews and created promotional videos using Adobe Premiere Pro
 
-## Education
-
-**Makers Academy (Jul '21 - Nov '21)**
-
-- Focused on Object Oriented Programming and Behaviour Driven Development
-- Integrated XP values and SOLID principles into projects 
-- Practiced Test driven Development and Domain Modelling
-- Gained knowledge on MVC with full stack web development
-- Established wellbeing practices with each project
-- Adapted to using new technologies and debugging
-- Frequent pair programming
-
 ## Education and Further Learning
 
 **Makers Academy (Jul '21 - Nov '21)**
