@@ -15,15 +15,8 @@ I am an enthusiastic Junior Full Stack Developer with a passion for clean design
 ## Skills
 
 **Languages and Tools**
-Learning with Makers has enabled me to become language agnostic - I am happy to work with new technologies and adapt as needed.
-- **Languages** Experience with Ruby, JavaScript, basic Python, HTML, CSS
-- **Frameworks** Ruby on Rails, Express, Sinatra
-- **Libraries** React
-- **Databases** PostgrSQL, Postman, TablePlus
-- **Tools** Git, Command Line, Miro, Trello
-- **Testing** RSpec, Jasmine, Capybara
-- **Design** Bootstrap, Figma, Material UI, Photoshop
-- **Editing** Adobe Premiere Pro, Final Cut Pro X
+Learning with Makers has enabled me to become language agnostic - I am happy to work with new technologies and adapt as needed. Taking on new languages in a short space of time sharpened my problem solving and debugging skills.
+
 
 **Continuous Development and Self-led Learning**
 I continue to seek new information to enhance my personal and professional projects. I taught myself how to edit videos using industry standard software, which led to roles in the TV industry. Utilising Agile practices throughout Makers enabled me to focus on effective time management and prioritise tasks accordingly. For our final project, we challenged ourselves to learn Express and React in under 2 weeks to enhance our [Sneaker Seeker](https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo) app.
