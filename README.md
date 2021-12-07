@@ -66,12 +66,12 @@ As a researcher, I sought to find unique perspectives that increased engagement 
 - Adapted to using new technologies and debugging
 - Frequent pair programming
 
-**Courses**
+**Courses (May '20 - Jun '21)**
 
-- **Python for Everybody (May '21 - Jun '21)** - University of Michigan
-- **Technology Internship Experience (Jul '20)** - Bright Network
-- **Introduction to Web Development (Apr '20 - Jun '20)** - Code First:Girls
-- **Responsive Web Design, JavaScript Algorithms and Data Structure Certifications (Apr '20 - Jun '20)** - freeCodeCamp
+- **Python for Everybody** - University of Michigan
+- **Technology Internship Experience** - Bright Network
+- **Introduction to Web Development** - Code First:Girls
+- **Responsive Web Design, JavaScript Algorithms and Data Structure Certifications** - freeCodeCamp
 - **Harvard CS50** _in progress_
 
 **The University of Manchester (Sep '15 - Jun '18)**
