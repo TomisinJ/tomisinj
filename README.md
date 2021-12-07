@@ -73,11 +73,13 @@ As a researcher, I sought to find unique perspectives that increased engagement 
 - Adapted to using new technologies and debugging
 - Frequent pair programming
 
-**Python for Everybody** - University of Michigan (May '21 - Jun '21)
-**Technology Internship Experience** - Bright Network (Jul '20)
-**Introduction to Web Development** - Code First:Girls (Apr '20 - Jun '20)
-**Responsive Web Design, JavaScript Algorithms and Data Structure Certifications** - freeCodeCamp (Apr '20 - Jun '20)
-**Harvard CS50** _in progress_
+**Courses**
+
+- **Python for Everybody** - University of Michigan (May '21 - Jun '21)
+- **Technology Internship Experience** - Bright Network (Jul '20)
+- **Introduction to Web Development** - Code First:Girls (Apr '20 - Jun '20)
+- **Responsive Web Design, JavaScript Algorithms and Data Structure Certifications** - freeCodeCamp (Apr '20 - Jun '20)
+- **Harvard CS50** _in progress_
 
 **The University of Manchester (Sep '15 - Jun '18)** BSc International Business, Finance and Economics
 - Played for the Women’s Hockey Club and Campus League teams
