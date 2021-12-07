@@ -68,13 +68,14 @@ As a researcher, I sought to find unique perspectives that increased engagement 
 
 **Courses**
 
-- **Python for Everybody** - University of Michigan (May '21 - Jun '21)
-- **Technology Internship Experience** - Bright Network (Jul '20)
-- **Introduction to Web Development** - Code First:Girls (Apr '20 - Jun '20)
-- **Responsive Web Design, JavaScript Algorithms and Data Structure Certifications** - freeCodeCamp (Apr '20 - Jun '20)
+- **Python for Everybody (May '21 - Jun '21)** - University of Michigan
+- **Technology Internship Experience (Jul '20)** - Bright Network
+- **Introduction to Web Development (Apr '20 - Jun '20)** - Code First:Girls
+- **Responsive Web Design, JavaScript Algorithms and Data Structure Certifications (Apr '20 - Jun '20)** - freeCodeCamp
 - **Harvard CS50** _in progress_
 
-**The University of Manchester** BSc International Business, Finance and Economics (Sep '15 - Jun '18)
+**The University of Manchester (Sep '15 - Jun '18)**
+- BSc International Business, Finance and Economics
 - Played for the Women’s Hockey Club and Campus League teams
 - Cameraman for FuseTV Media Society
 
