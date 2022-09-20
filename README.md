@@ -33,27 +33,6 @@ I enjoy playing team sports, particularly hockey, at various levels including Co
 **Attention to Detail**
 As a researcher, I sought to find unique perspectives that increased engagement from viewers. Whilst working at a production company, I considered UX & UI design in order to create an engaging portfolio website. When creating [Sneaker Seeker](https://github.com/InfobyAdrienne/Sneaker-Seeker-Demo), I was keen to implement clean design into our web app, especially considering the demographic of users.
 
-## Work Experience
-
-**TV Researcher (2020)**
-- Conducted extensive research into various subject matter aligned to specific criteria and presented information for pitches, decks and biographies
-- Sourced relevant media from archives on tight deadlines
-
-**Social Media Manager (Apr '19 - Mar '20)**
-- Developed a new website (using Wix) with appropriate SEO and design
-- Strategically created original content for social media to organically increase engagement and grow presence online
-- Scheduled posts to coincide with current affairs and created content in-line with social trends and monitored analytics
-- Used Canon 5D and Panasonic Lumix G80 to capture content and edit using Photoshop and Adobe Premiere Pro
-
-**Production Assistant (Mar '19 - Dec '20)**
-- Runner on set and in office for an award-winning production team creating a variety of branded, digital and entertainment content
-- Delegated responsibilities amongst runners and flexibly filled any role required across departments
-
-**Fundraising and Marketing Assistant (Jan '19 - Mar '19)**
-- Researched fundraising opportunities during the relaunch of the art gallery
-- Used a CMS to manage the website and wrote the weekly newsletter
-- Filmed interviews and created promotional videos using Adobe Premiere Pro
-
 ## Education and Further Learning
 
 **Makers Academy (Jul '21 - Nov '21)**
@@ -73,17 +52,6 @@ As a researcher, I sought to find unique perspectives that increased engagement 
 - **Introduction to Web Development** - Code First:Girls
 - **Responsive Web Design, JavaScript Algorithms and Data Structure Certifications** - freeCodeCamp
 - **Harvard CS50** _in progress_
-
-**The University of Manchester (Sep '15 - Jun '18)**
-- **BSc International Business, Finance and Economics**
-- Played for the Women’s Hockey Club and Campus League teams
-- Cameraman for FuseTV Media Society
-
-**A & AS Levels**
-- Mathematics, Psychology, Biology and Chemistry
-
-**GCSEs**
-- 11 A* - A including Mathematics and English
 
 ## Hobbies and Interests
 - **Hockey** I play hockey for my local team on a weekly basis
