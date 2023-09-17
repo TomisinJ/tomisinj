@@ -2,7 +2,7 @@
 
 [Projects](#Projects) • [Skills](#Skills) • [Work Experience](#Work-Experience) • [Education](#Education) • [Hobbies and Interests](#Hobbies-and-Interests)
 
-I am an enthusiastic Junior Full Stack Developer with a passion for clean design.
+I am an enthusiastic Full Stack Developer with a passion for clean design.
 
 ## Projects
 
